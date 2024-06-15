@@ -1,0 +1,7 @@
+Data/
+Models/
+Metrics/
+Logs/
+*.out
+__pycache__/
+*.pstats
