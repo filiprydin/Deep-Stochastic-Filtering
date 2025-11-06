@@ -1,4 +1,7 @@
 # Deep-Stochastic-Filtering
+
+⛔️⛔️⛔️ DEPRECATED. Check out our new repository instead: https://github.com/bagmark/deep-density-filtering. This repository is kept for historical reference only. ⛔️⛔️⛔️
+
 Source code for the master's thesis "A Deep Learning Method for Nonlinear Stochastic Filtering: Energy-Based Deep Splitting for Fast and Accurate Estimation of Filtering Densities" at Chalmers University of Technology.
 
 Link: <http://hdl.handle.net/20.500.12380/308090>
